@@ -1,2 +1,2 @@
 # PetStory
-educational project in RS school
+https://github.com/AndyKrau/PetStory/main/index.html
